@@ -18,7 +18,7 @@ function App(){
         <Header />
         <HeroSection />
         <FeatureSection showboxshot={true} image={boy} title="Enjoy on your TV" description="Watch on Smart Tvs,Playstations,Xbox,Chromecast,Apple TV,Blu-Ray players and more."/>
-        <FeatureSection reverse={true} showvideo= {true} video="/public/Netflix Ghana - Watch TV Shows Online, Watch Movies Online.m4v" image= {tv} title="Download your shows to watch offline" description="Save your favorites easily and always have something to watch" />
+        <FeatureSection reverse={true} showvideo= {true} video="/netflix.m4v" image= {tv} title="Download your shows to watch offline" description="Save your favorites easily and always have something to watch" />
         <FeatureSection image= {kids} title="Create a profile for kids" description="Send kids on an adventure with their favorite characters in space made just for them -- free with your membership" />
         <FAQSection />
        <Footer />
